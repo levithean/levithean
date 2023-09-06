@@ -8,4 +8,10 @@ I learn different languages during **my spare time** like *C, C++* or *JavaScrip
 
 I like playing video games and watching anime.
 
+### HTML : ✅
+
+### CSS : ✅
+
+### JS : ⚙️
+
 ### I code on Intellij IDEA and Visual Studio.
