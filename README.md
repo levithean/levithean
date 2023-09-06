@@ -4,7 +4,7 @@
 
 I make Java projects and **Bukkit/Skript** plugins for **Minecraft** 🎮.
 
-I learn different languages during **my spare time** like *C, C++* or *JavaScript* 🕓.
+I improve my programming skills during **my spare time** 🕓.
 
 I like playing video games and watching anime.
 
