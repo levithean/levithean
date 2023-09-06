@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>Hi there 👋</h1> 
 
-### I'm Julien, a French student and Java developer.
+<h2>I'm Julien, a French student and Java developer.</h2> 
 
 I make projects and **Bukkit/Skript** plugins for **Minecraft** 🎮.
 
