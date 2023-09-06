@@ -8,6 +8,4 @@ I learn different languages during **my spare time** like *C, C++* or *JavaScrip
 
 I like playing video games and watching anime.
 
-You can find me on :
-
-### Twitter : levithean
+I code on **Intellij IDEA** and **Visual Studio **.
