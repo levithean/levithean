@@ -20,4 +20,4 @@ I like playing video games and watching anime.
   </tr>
 </table>
 
-**I use Intellij IDEA and Visual Studio**.
+**I use Intellij IDEA and Visual Studio to code**.
