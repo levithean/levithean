@@ -4,7 +4,7 @@
 
 I make Java projects and **Bukkit/Skript** plugins for **Minecraft** 🎮.
 
-I'm also a **beginner** in all C languages (learning at school), JavaScript and SQL.
+I'm also a **beginner** in **all C languages** (learning at school), **SQL** and **Web Development**.
 
 I improve my programming skills during **my spare time** 🕓.
 
