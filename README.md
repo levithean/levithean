@@ -8,7 +8,7 @@ I'm also a **beginner** in **all C languages** (learning at school), **SQL** and
 
 I improve my programming skills during **my spare time** 🕓.
 
-I like playing video games and watching anime.
+I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.
 
 ### My main skills :
 <table>
