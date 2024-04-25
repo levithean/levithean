@@ -2,7 +2,7 @@
 
 <h2>I'm Julien, a French student and Full Stack developer.</h2> 
 
-<p>I make Java projects and **Bukkit/Skript** plugins for **Minecraft** 🎮.</p>
+<p>I make Java projects and <strong>Bukkit/Skript**</strong> plugins for **Minecraft** 🎮.</p>
 
 I'm also a **beginner** in **all C languages** (learning at school), **SQL** and **Web Development** (PHP, JavaScript...).
 
