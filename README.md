@@ -4,7 +4,7 @@
 <h2>I'm Julien, a French student and Full Stack developer.</h2> 
 
 <p>I make Java projects and <strong>Bukkit/Skript</strong> plugins for <strong>Minecraft</strong> 🎮.</p>
-<p>I'm also a <strong>beginner</strong> in <strong>all C languages</strong> (learning at school), <strong>SQL</strong> and <strong>Web Development</strong> (PHP, JavaScript...).</p>
+<p>I'm also a <strong>beginner</strong> in <strong>all C languages</strong> (learning at school) and <strong>Web Development</strong> (PHP, JavaScript...).</p>
 <p>I improve my programming skills during <strong>my spare time</strong> 🕓.</p>
 
 <p>I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.</p>
