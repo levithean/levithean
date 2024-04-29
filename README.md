@@ -20,7 +20,7 @@ String myFavouriteDish() {
   return "I like pastas UwU";
 }
 
-boolean doILikeCoding(string language) {
+boolean doILikeCoding(String language) {
 
   switch(language) {
 
