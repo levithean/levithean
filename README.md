@@ -44,6 +44,18 @@ boolean doIKnowCoding(String language) {
       return false; // I don't really know coding in JS
       break;
 
+    case "html":
+      return true;
+      break;
+
+    case "css":
+      return true;
+      break;
+
+    case "php":
+      return false; // I learn
+      break;
+
     default:
       return false;
   }
