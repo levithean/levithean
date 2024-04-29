@@ -17,7 +17,7 @@ String myAge() {
 }
 
 String myFavouriteDish() {
-  return "I like pastas UwU";
+  return "I like pasta UwU";
 }
 
 boolean doIKnowCoding(String language) {
