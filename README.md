@@ -1,15 +1,15 @@
-<div align="center">
-  <h1>Hello 👋</h1> 
+# Hello 👋
   
-<h2>I'm Julien, a French student and Full Stack developer.</h2> 
+## I'm Julien, a French student and Full Stack developer.
 
-<p>I make Java projects and <strong>Bukkit/Skript</strong> plugins for <strong>Minecraft</strong> 🎮.</p>
-<p>I'm also a <strong>beginner</strong> in <strong>all C languages</strong> (learning at school) and <strong>Web Development</strong> (PHP, JavaScript...).</p>
-<p>I improve my programming skills during <strong>my spare time</strong> 🕓.</p>
+I make Java projects and **Bukkit/Skript** plugins for **Minecraft** 🎮.
+I'm also a **beginner** in **all C languages** (learning at school) and **Web Development** (PHP, JavaScript...).
 
-<p>I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.</p>
+I improve my programming skills during **my spare time** 🕓.
 
-<h2>My main skills :</h2>
+I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.
+
+## My main skills :
 <table>
   <tr>
     <td><img src="https://repository-images.githubusercontent.com/152675496/5d1bcd00-61c7-11e9-9aee-5aab12aa02cf" width=60 height=60 title="Skript for MC"</td>
@@ -19,6 +19,4 @@
   </tr>
 </table>
 
-<p><strong>I use Intellij IDEA and Visual Studio to code.</strong></p>
-
-</div>
+**I use Intellij IDEA and Visual Studio to code.**
