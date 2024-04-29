@@ -9,7 +9,7 @@ I improve my programming skills during **my spare time** 🕓.
 
 I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.
 
-## Other infos :
+### Other infos :
 
 ```java
 String getAge() {
@@ -50,7 +50,7 @@ boolean doILikeCoding(String language) {
 }
 ```
 
-## My main skills :
+### My main skills :
 <table>
   <tr>
     <td><img src="https://repository-images.githubusercontent.com/152675496/5d1bcd00-61c7-11e9-9aee-5aab12aa02cf" width=60 height=60 title="Skript for MC"</td>
