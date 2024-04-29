@@ -9,6 +9,47 @@ I improve my programming skills during **my spare time** 🕓.
 
 I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.
 
+## Other infos :
+
+```java
+String getAge() {
+  return "I'm 20 years old soon !";
+}
+
+String myFavouriteDish() {
+  return "I like pastas UwU";
+}
+
+boolean doILikeCoding(string language) {
+
+  switch(language) {
+
+    case "java":
+      return true;
+      break;
+
+    case "csharp":
+      return true;
+      break;
+
+    case "cplusplus":
+      return true;
+      break;
+
+    case "c":
+      return true;
+      break;
+
+    case "js":
+      return false; // I don't really know coding in JS
+      break;
+
+    default:
+      return false;
+  }
+}
+```
+
 ## My main skills :
 <table>
   <tr>
