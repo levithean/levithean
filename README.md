@@ -53,7 +53,7 @@ boolean doIKnowCoding(String language) {
       break;
 
     case "php":
-      return false; // I learn
+      return false; // I'm learning
       break;
 
     default:
