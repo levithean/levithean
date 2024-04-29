@@ -12,7 +12,7 @@ I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.
 ### Other infos :
 
 ```java
-String getAge() {
+String myAge() {
   return "I'm 20 years old soon !";
 }
 
