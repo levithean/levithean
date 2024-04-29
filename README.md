@@ -41,7 +41,7 @@ boolean doIKnowCoding(String language) {
       break;
 
     case "js":
-      return false; // I don't really know coding in JS
+      return false; // I'm learning
       break;
 
     case "html":
