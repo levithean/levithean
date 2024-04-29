@@ -65,7 +65,7 @@ boolean doIKnowCoding(String language) {
 ### My main skills :
 <table>
   <tr>
-    <td><img src="https://repository-images.githubusercontent.com/152675496/5d1bcd00-61c7-11e9-9aee-5aab12aa02cf" width=60 height=60 title="Skript for MC"</td>
+    <td><img src="https://repository-images.githubusercontent.com/152675496/5d1bcd00-61c7-11e9-9aee-5aab12aa02cf" width=60 height=60 title="Skript for MC"></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width=60 height=60 title="Java"></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width=60 height=60 title="HTML"></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width=60 height=60 title="CSS"></td>
