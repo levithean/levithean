@@ -37,7 +37,7 @@ boolean doIKnowCoding(String language) {
       break;
 
     case "c":
-      return true;
+      return true; // a little bit
       break;
 
     case "js":
