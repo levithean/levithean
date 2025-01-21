@@ -72,6 +72,6 @@ boolean doIKnowCoding(String language) {
   </tr>
 </table>
 
-To see my pro projects click [here](https://github.com/jul1_rqe).
+To see my pro projects click [here](https://github.com/jul1rqe).
 
 **I use Intellij IDEA and Visual Studio to code.**
