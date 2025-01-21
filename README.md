@@ -9,6 +9,8 @@ I improve my programming skills during **my spare time** 🕓.
 
 I like playing video games (Minecraft, LoL, CS:GO, GTA V...) and watching anime.
 
+To see my professional projects click [here](https://github.com/jul1rqe).
+
 ### Other infos :
 
 ```java
@@ -71,7 +73,5 @@ boolean doIKnowCoding(String language) {
     <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width=60 height=60 title="CSS"></td>
   </tr>
 </table>
-
-To see my professional projects click [here](https://github.com/jul1rqe).
 
 **I use Intellij IDEA and Visual Studio to code.**
